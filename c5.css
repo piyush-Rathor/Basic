@@ -1,0 +1,10 @@
+body
+{
+	background-image:url('body.jpg');
+	color: rgb(150,260,150);
+	font-size:32px;
+	line-height:1.5;
+	letter-spacing:1.2;
+	word-spacing:1.4;
+}
+

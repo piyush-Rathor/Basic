@@ -1,0 +1,24 @@
+body
+{
+	font-size:34px;
+	/*background-image:url(nice4.jpg);*/
+	background-color: rgb(117, 199, 198);
+}
+caption
+{
+	color:rgb(0,0,100);
+}
+marquee
+{
+	color:black;
+	font-weight:bolt;
+}
+form
+{
+	line-height:1.52;
+}
+.o
+{
+width:100px;
+height:27px;
+}
